@@ -1,6 +1,6 @@
 <h1 align="left" dir="auto">👋 Olá! Eu sou o Alison 😄</h1>
 <h2 dir="auto">Bem vindo ao meu perfil GitHub 👋</h2>
-<p dir="auto">Tenho 26 anos, moro em Palmeira das Missões/RS e sou fissurado por programação, jogos e felinos! Sou iniciante no universo da programação, e procuro me tornar um desenvolvedor Front-End </p>
+<p dir="auto">Tenho 27 anos, moro em Palmeira das Missões/RS e sou fissurado por programação, jogos e felinos! Sou iniciante no universo da programação, e procuro me tornar um desenvolvedor Front-End </p>
 <p dir="auto">📚 Atualmente estou estudando Front-end</p>
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7ff31bf674c5358f243c50ad2d3709af50a98c28e1f478dcc898309b973a4099/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966"><img src="https://camo.githubusercontent.com/7ff31bf674c5358f243c50ad2d3709af50a98c28e1f478dcc898309b973a4099/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" width="350" data-animated-image="" data-canonical-src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" style="max-width: 100%;"></a>
